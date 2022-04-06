@@ -2,7 +2,7 @@
 
 👀 I’m interested in DevSecOps, ML, Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
 
-🌱 I’m currently learning Python and studying for the ComptTIA CySA+ and the CKS exams.
+🌱 I’m currently building up my Python skills and studying for the ComptTIA CySA+ and the CKS exams.
 
 📫 You can reach me via https://linkedin.com/in/macmiranda/
 
