@@ -2,7 +2,7 @@
 
 👀 I’m interested in DevSecOps, ML, Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
 
-🌱 I’m currently building up my Go and Python skills and studying for the the CKS exam.
+🌱 I’m currently building up my Go and Python skills and studying for the CKS exam.
 
 🏆 Certified LFCS, CKA, CySA+ and CCNA
 
