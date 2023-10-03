@@ -1,8 +1,8 @@
 👋 Hi, I’m @macmiranda, a high-achieving generalist with 18+ years of experience managing highly-available distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
 
-👀 I’m interested in DevSecOps, ML, Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
+👀 I’m interested in DevSecOps, ML + Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
 
-🌱 I’m currently building up my Go and Python skills and studying for the CKS exam.
+🌱 I’m currently building up my Go skills and studying for the CKS exam.
 
 🏆 Certified LFCS, CKA, CySA+ and CCNA
 
