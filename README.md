@@ -1,4 +1,4 @@
-👋 Hi, I’m @macmiranda, a high-achieving generalist with 20+ years of experience managing highly-available distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
+👋 Hi, I’m @macmiranda, a high-achieving generalist with 20+ years of experience designing and managing resilient distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
 
 👀 Interested in Cloud Engineering, CI/CD Platforms, Threat Research and Blockchain.
 
@@ -6,7 +6,7 @@
 
 ☕ Obsessed about specialty coffee.
 
-🌱 Currently building up my Go/Rust skills and studying for the CKS exam. Decided to give Neovim a go.
+🌱 Currently building up my Go/Rust skills. Trying Helix, terminal-based IDE.
 
 🏆 Certified LFCS, CKA, CySA+ and CCNA
 
